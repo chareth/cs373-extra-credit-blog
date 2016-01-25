@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /cs373-extra-credit-blog
+exclude: ['README.md']
