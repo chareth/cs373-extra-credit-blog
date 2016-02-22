@@ -1,4 +1,4 @@
-markdown: redcarpet
+markdown: kramdown
 baseurl: /cs373-extra-credit-blog
 exclude: ['README.md']
 pygments: true
