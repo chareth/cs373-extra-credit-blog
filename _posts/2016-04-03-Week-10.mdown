@@ -1,0 +1,18 @@
+---
+layout: post
+title: Week 10
+---
+
+1. What did you do this past week?
+	
+	This week, we were introduced to xml, which has pointers and multiplicity. Although it does have those features, I still like json better because of its simplicity. Then we had guest speakers from Atlassian, a company that develops products for teams to use in their work. They make stuff like GitHub, Slack, GitHub Issues, and Travis CI. They talked about their products in the context of an agile team working through a sprint. It seemed neat, but the presention would've been better to see near the beginning of the semester when we were first learning and reading about agile. 
+
+2. What's in your way?
+	
+	Last week, I wanted to try working with the database and I got that without even having to ask. This phase of the project requires the site to become dynamic, so I had to learn how to query the database to put the information into the site rather than pull it from a file. I still need to get more familiar with querying.
+
+3. What will you do next week?
+	
+	This week the project is due. I plan on testing the API and pulling more information for the site. If new information is pulled, we would have to update the database to store that information and change the layout for a person's page to accomodate the new information.
+	
+**Tip of the week:**   There's this guy who made a giant [Flask tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) that was really helpful. Turns out he even has a [tutorial](http://blog.miguelgrinberg.com/post/designing-a-restful-api-using-flask-restful) on how to make a RESTful API! The website for flask-restful also has a helpful [tutorial](http://flask-restful.readthedocs.org/en/0.3.5/quickstart.html#a-minimal-api).
